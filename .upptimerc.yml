@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Sisedu
   introTitle: "**SISEDU NETWORK**"
-  introMessage: sisedu status page for sis network
+  introMessage: sisedu status page for sis network to monitor
   navbar:
     - title: Status
       href: /
