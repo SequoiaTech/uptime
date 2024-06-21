@@ -22,7 +22,7 @@
     "url": "https://api.sisedu.org",
     "icon": "https://icons.duckduckgo.com/ip3/api.sisedu.org.ico",
     "slug": "sisedu-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 920,
     "timeMonth": 886,
     "timeYear": 886,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-21": 0
+    }
   }
 ]
