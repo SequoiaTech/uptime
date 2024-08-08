@@ -52,18 +52,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/supabase.sisedu.org.ico",
     "slug": "supabase",
     "status": "up",
-    "uptime": "1.07%",
-    "uptimeDay": "1.07%",
-    "uptimeWeek": "1.07%",
-    "uptimeMonth": "1.07%",
-    "uptimeYear": "1.07%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 864,
     "timeDay": 864,
     "timeWeek": 864,
     "timeMonth": 864,
     "timeYear": 864,
-    "dailyMinutesDown": {
-      "2024-08-08": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
