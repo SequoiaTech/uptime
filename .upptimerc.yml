@@ -8,9 +8,7 @@ sites:
   - name: Sisedu API
     url: https://api.sisedu.org
   - name: Supabase
-    url: https://supabase.sisedu.org
-    expectedStatusCodes:
-      - 401
+    url: https://supabase:DMfrVHATpr39bNU@supabase.sisedu.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
