@@ -9,8 +9,8 @@ sites:
     url: https://api.sisedu.org
   - name: Supabase
     url: https://supabase.sisedu.org
-    headers:
-    - "Authorization: Bearer c3VwYWJhc2U6RE1mclZIQVRwcjM5Yk5V"
+    expectedStatusCodes:
+      - 401
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
