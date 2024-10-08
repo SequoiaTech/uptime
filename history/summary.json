@@ -66,17 +66,19 @@
     "url": "https://supabase:DMfrVHATpr39bNU@supabase.sisedu.org",
     "icon": "https://icons.duckduckgo.com/ip3/supabase.sisedu.org.ico",
     "slug": "supabase",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1140,
-    "timeDay": 1651,
-    "timeWeek": 1297,
-    "timeMonth": 1173,
-    "timeYear": 1140,
-    "dailyMinutesDown": {}
+    "time": 1127,
+    "timeDay": 994,
+    "timeWeek": 1177,
+    "timeMonth": 1146,
+    "timeYear": 1127,
+    "dailyMinutesDown": {
+      "2024-10-08": 0
+    }
   }
 ]
