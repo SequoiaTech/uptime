@@ -5,6 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: Sisedu
     url: https://www.sisedu.org
+  - name: Concert Sisedu
+    url: https://concert.sisedu.org
   - name: Sisedu API
     url: https://api.sisedu.org
   - name: Supabase
