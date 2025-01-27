@@ -11,12 +11,14 @@ sites:
     url: https://concert.sisedu.org
   - name: Sisedu API
     url: https://api.sisedu.org
+    icon: https://concert.sisedu.org/api.png
   - name: IGCSE Site
     url: https://igcse.sisedu.org
   - name: Exhibition Site
     url: https://exhibition.sisedu.org
   - name: Supabase API
     url: https://supabase.sisedu.org/api/pg-meta/default/query?key=table-rows-301276
+    icon: https://concert.sisedu.org/super.png
     method: POST
     headers:
     - "Content-Type: application/json"
