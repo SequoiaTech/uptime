@@ -5,12 +5,32 @@ repo: uptime # The name of this repository
 sites:
   - name: Sisedu
     url: https://www.sisedu.org
+  - name: Sisedu (Cloudflare)
+    url: https://sisedu.org
   - name: Concert Sisedu
     url: https://concert.sisedu.org
   - name: Sisedu API
     url: https://api.sisedu.org
-  - name: Supabase
-    url: https://supabase:DMfrVHATpr39bNU@supabase.sisedu.org
+  - name: IGCSE Site
+    url: https://igcse.sisedu.org
+  - name: Exhibition Site
+    url: https://exhibition.sisedu.org
+  - name: Supabase API
+    url: https://supabase.sisedu.org/api/pg-meta/default/query?key=table-rows-301276
+    method: POST
+    body: >
+      {
+        "query": "select * from public.api_test order by api_test.id asc nulls first limit 100 offset 0;"
+      }
+    headers:
+      accept: application/json
+      accept-language: en-US,en;q=0.9
+      authorization: Basic c3VwYWJhc2U6RE1mclZIQVRwcjM5Yk5V
+      content-type: application/json
+      origin: https://supabase.sisedu.org
+      referer: https://supabase.sisedu.org/project/default/editor/301276?schema=public
+      user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+      x-request-id: 2f763dc2-8542-42b3-b2f0-3fcb0887b321
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
