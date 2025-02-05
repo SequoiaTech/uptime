@@ -5,8 +5,27 @@ repo: uptime # The name of this repository
 sites:
   - name: Sisedu
     url: https://www.sisedu.org
+  - name: Sisedu (Cloudflare)
+    url: https://sisedu.org
+  - name: Concert Sisedu
+    url: https://concert.sisedu.org
   - name: Sisedu API
     url: https://api.sisedu.org
+    icon: https://concert.sisedu.org/api.png
+  - name: IGCSE Site
+    url: https://igcse.sisedu.org
+  - name: Exhibition Site
+    url: https://exhibition.sisedu.org
+  - name: Supabase API
+    url: https://supabase.sisedu.org/api/pg-meta/default/query?key=table-rows-301276
+    icon: https://concert.sisedu.org/super.png
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+      - "Authorization: Basic $SUPASWORD"
+    body: '{
+      "query": "select * from public.api_test order by api_test.id asc nulls first limit 100 offset 0;"
+      }'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -16,12 +35,11 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Sisedu
   introTitle: "**SISEDU NETWORK**"
-  introMessage: sisedu status page
+  introMessage: sisedu status page for sis network to monitor
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
