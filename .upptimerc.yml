@@ -5,8 +5,12 @@ repo: uptime # The name of this repository
 sites:
   - name: Sisedu
     url: https://www.sisedu.org
-  - name: Sisedu (Cloudflare)
-    url: https://sisedu.org
+  - name: Coolify
+    url: https://coolify.sisedu.org
+  - name: Proxmox
+    url: https://proxmox.sisedu.org
+  - name: Pi-hole
+    url: https://pihole.sisedu.org
   - name: Concert Sisedu
     url: https://concert.sisedu.org
   - name: Sisedu API
