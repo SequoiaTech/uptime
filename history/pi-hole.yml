@@ -1,7 +1,7 @@
-url: https://pihole.sisedu.org
+url: https://pihole.sisedu.org/admin/
 status: down
 code: 401
-responseTime: 966
-lastUpdated: 2025-06-12T23:09:28.583Z
+responseTime: 982
+lastUpdated: 2025-06-13T00:48:30.668Z
 startTime: 2025-06-12T07:05:20.381Z
 generator: Upptime <https://github.com/upptime/upptime>
