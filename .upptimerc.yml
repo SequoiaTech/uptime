@@ -10,7 +10,7 @@ sites:
   - name: Proxmox
     url: https://proxmox.sisedu.org
   - name: Pi-hole
-    url: https://pihole.sisedu.org
+    url: https://pihole.sisedu.org/admin/
   - name: Concert Sisedu
     url: https://concert.sisedu.org
   - name: Sisedu API
