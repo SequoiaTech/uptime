@@ -1,7 +1,7 @@
 url: https://supabase.sisedu.org/api/pg-meta/default/query?key=table-rows-301276
-status: down
-code: 502
-responseTime: 675
-lastUpdated: 2025-09-18T06:39:43.124Z
+status: up
+code: 200
+responseTime: 1004
+lastUpdated: 2025-09-18T06:55:51.314Z
 startTime: 2025-02-05T02:39:17.590Z
 generator: Upptime <https://github.com/upptime/upptime>
