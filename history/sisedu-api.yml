@@ -1,7 +1,7 @@
 url: https://api.sisedu.org
-status: up
-code: 200
-responseTime: 768
-lastUpdated: 2025-09-21T18:41:59.002Z
+status: down
+code: 522
+responseTime: 19898
+lastUpdated: 2025-09-21T19:27:05.636Z
 startTime: 2025-02-05T02:39:13.547Z
 generator: Upptime <https://github.com/upptime/upptime>
