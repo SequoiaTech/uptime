@@ -1,7 +1,7 @@
 url: https://proxmox.sisedu.org
-status: down
-code: 525
-responseTime: 701
-lastUpdated: 2025-09-24T23:08:34.633Z
+status: up
+code: 200
+responseTime: 1025
+lastUpdated: 2025-09-25T05:29:04.222Z
 startTime: 2025-06-12T07:05:19.112Z
 generator: Upptime <https://github.com/upptime/upptime>
