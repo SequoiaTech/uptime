@@ -1,7 +1,7 @@
 url: https://concert.sisedu.org
-status: down
-code: 503
-responseTime: 858
-lastUpdated: 2025-11-19T07:43:01.075Z
+status: up
+code: 200
+responseTime: 901
+lastUpdated: 2025-11-19T07:55:06.138Z
 startTime: 2025-02-05T02:39:01.124Z
 generator: Upptime <https://github.com/upptime/upptime>
