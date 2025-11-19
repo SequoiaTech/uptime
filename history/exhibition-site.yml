@@ -1,7 +1,7 @@
 url: https://exhibition.sisedu.org
-status: up
-code: 200
-responseTime: 641
-lastUpdated: 2025-11-18T23:08:48.333Z
+status: down
+code: 503
+responseTime: 876
+lastUpdated: 2025-11-19T07:43:10.097Z
 startTime: 2025-02-05T02:39:16.254Z
 generator: Upptime <https://github.com/upptime/upptime>
