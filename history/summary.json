@@ -4,12 +4,12 @@
     "url": "https://www.sisedu.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.sisedu.org.ico",
     "slug": "sisedu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.72%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.71%",
     "time": 1555,
     "timeDay": 1573,
     "timeWeek": 1409,
@@ -30,7 +30,8 @@
       "2026-03-06": 174,
       "2026-04-04": 59,
       "2026-05-10": 245,
-      "2026-05-09": 114
+      "2026-05-09": 114,
+      "2026-06-09": 11
     }
   },
   {
@@ -38,17 +39,17 @@
     "url": "https://coolify.sisedu.org",
     "icon": "https://icons.duckduckgo.com/ip3/coolify.sisedu.org.ico",
     "slug": "coolify",
-    "status": "up",
-    "uptime": "96.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "96.59%",
-    "time": 4692,
-    "timeDay": 1943,
-    "timeWeek": 2487,
-    "timeMonth": 3561,
-    "timeYear": 4692,
+    "status": "down",
+    "uptime": "96.60%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "96.60%",
+    "time": 4720,
+    "timeDay": 10685,
+    "timeWeek": 4604,
+    "timeMonth": 4028,
+    "timeYear": 4720,
     "dailyMinutesDown": {
       "2025-06-15": 511,
       "2025-06-14": 78,
@@ -80,7 +81,8 @@
       "2026-04-04": 249,
       "2026-04-30": 92,
       "2026-05-10": 245,
-      "2026-05-09": 113
+      "2026-05-09": 113,
+      "2026-06-09": 10
     }
   },
   {
@@ -88,17 +90,17 @@
     "url": "https://proxmox.sisedu.org",
     "icon": "https://icons.duckduckgo.com/ip3/proxmox.sisedu.org.ico",
     "slug": "proxmox",
-    "status": "up",
+    "status": "down",
     "uptime": "97.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.18%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "97.28%",
-    "time": 1788,
-    "timeDay": 1035,
-    "timeWeek": 969,
-    "timeMonth": 2178,
-    "timeYear": 1788,
+    "time": 1833,
+    "timeDay": 10187,
+    "timeWeek": 3265,
+    "timeMonth": 2683,
+    "timeYear": 1833,
     "dailyMinutesDown": {
       "2025-06-15": 511,
       "2025-06-14": 77,
@@ -126,7 +128,8 @@
       "2026-03-06": 173,
       "2026-04-30": 91,
       "2026-05-10": 245,
-      "2026-05-09": 112
+      "2026-05-09": 112,
+      "2026-06-09": 8
     }
   },
   {
@@ -134,17 +137,17 @@
     "url": "https://concert.sisedu.org",
     "icon": "https://icons.duckduckgo.com/ip3/concert.sisedu.org.ico",
     "slug": "concert-sisedu",
-    "status": "up",
+    "status": "down",
     "uptime": "96.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "95.39%",
-    "time": 6303,
-    "timeDay": 1205,
-    "timeWeek": 1088,
-    "timeMonth": 2217,
-    "timeYear": 3958,
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "95.38%",
+    "time": 6324,
+    "timeDay": 10409,
+    "timeWeek": 3404,
+    "timeMonth": 2729,
+    "timeYear": 3988,
     "dailyMinutesDown": {
       "2025-06-15": 511,
       "2025-06-14": 76,
@@ -184,7 +187,8 @@
       "2026-04-04": 248,
       "2026-04-30": 89,
       "2026-05-10": 245,
-      "2026-05-09": 111
+      "2026-05-09": 111,
+      "2026-06-09": 7
     }
   },
   {
@@ -192,11 +196,11 @@
     "url": "https://api.sisedu.org",
     "icon": "https://concert.sisedu.org/api.png",
     "slug": "sisedu-api",
-    "status": "up",
+    "status": "down",
     "uptime": "94.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.20%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.19%",
     "uptimeYear": "93.84%",
     "time": 3301,
     "timeDay": 875,
@@ -243,7 +247,8 @@
       "2026-03-06": 172,
       "2026-04-04": 248,
       "2026-05-10": 245,
-      "2026-05-09": 106
+      "2026-05-09": 106,
+      "2026-06-09": 2
     }
   },
   {
@@ -251,17 +256,17 @@
     "url": "https://igcse.sisedu.org",
     "icon": "https://icons.duckduckgo.com/ip3/igcse.sisedu.org.ico",
     "slug": "igcse-site",
-    "status": "up",
+    "status": "down",
     "uptime": "96.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "95.40%",
-    "time": 3422,
-    "timeDay": 1036,
-    "timeWeek": 1084,
-    "timeMonth": 2300,
-    "timeYear": 3899,
+    "time": 3448,
+    "timeDay": 10252,
+    "timeWeek": 3382,
+    "timeMonth": 2805,
+    "timeYear": 3930,
     "dailyMinutesDown": {
       "2025-06-15": 512,
       "2025-06-14": 73,
@@ -299,7 +304,8 @@
       "2026-04-04": 247,
       "2026-04-30": 88,
       "2026-05-10": 246,
-      "2026-05-09": 104
+      "2026-05-09": 104,
+      "2026-06-09": 1
     }
   },
   {
@@ -307,17 +313,17 @@
     "url": "https://exhibition.sisedu.org",
     "icon": "https://icons.duckduckgo.com/ip3/exhibition.sisedu.org.ico",
     "slug": "exhibition-site",
-    "status": "up",
-    "uptime": "96.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "96.60%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "95.44%",
-    "time": 3542,
-    "timeDay": 1010,
-    "timeWeek": 1044,
-    "timeMonth": 2186,
-    "timeYear": 4097,
+    "time": 3537,
+    "timeDay": 643,
+    "timeWeek": 948,
+    "timeMonth": 2129,
+    "timeYear": 4089,
     "dailyMinutesDown": {
       "2025-06-15": 512,
       "2025-06-14": 72,
@@ -355,7 +361,8 @@
       "2026-04-04": 246,
       "2026-04-30": 86,
       "2026-05-10": 246,
-      "2026-05-09": 103
+      "2026-05-09": 103,
+      "2026-06-09": 1
     }
   },
   {
@@ -363,17 +370,17 @@
     "url": "https://supabase.sisedu.org/api/pg-meta/default/query?key=table-rows-301276",
     "icon": "https://concert.sisedu.org/super.png",
     "slug": "supabase-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.71%",
-    "time": 1252,
-    "timeDay": 1089,
-    "timeWeek": 980,
-    "timeMonth": 2168,
-    "timeYear": 1361,
+    "time": 1250,
+    "timeDay": 711,
+    "timeWeek": 899,
+    "timeMonth": 2114,
+    "timeYear": 1359,
     "dailyMinutesDown": {
       "2025-06-15": 512,
       "2025-06-14": 71,
@@ -390,7 +397,8 @@
       "2025-12-02": 17,
       "2026-03-06": 170,
       "2026-05-10": 246,
-      "2026-05-09": 102
+      "2026-05-09": 102,
+      "2026-06-09": 0
     }
   }
 ]
